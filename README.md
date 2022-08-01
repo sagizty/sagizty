@@ -9,7 +9,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagizty&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Published Works:
+# Published Works (2022):
 
 Tianyi Zhang, Yunlu Feng, Yu Zhao, Guangda Fan, Aiming Yang, Shangqin Lyu, Peng Zhang, Fan Song, Chenbin Ma, Yangyang Sun, Youdan Feng, and Guanglei Zhang*, “MSHT: Multi-stage hybrid transformer for the ROSE image analysis of pancreatic cancer,” IEEE Transactions on Image Processing, 2022, under review. (SCI, Q1, IF=10.856)
 
