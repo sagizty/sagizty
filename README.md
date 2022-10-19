@@ -27,6 +27,8 @@ Jinkai Li, Fan Song, Peng Zhang, Chenbin Ma, Tianyi Zhang, Yangyang Sun, Youdan 
 
 Fan Song, Lan Song, Tongtong Xing, Youdan Feng, Xiao Song, Peng Zhang, Tianyi Zhang, Zhenchen Zhu, Wei Song, Guanglei Zhang*, “A multi-classification model for predicting the invasiveness of lung adenocarcinoma presenting as pure ground-glass nodules,” Frontiers in Oncology, 2022, in press. (SCI, Q2, IF=6.244)
 
+Fan Song, Jiaxin Tian, Peng Zhang, Chenbin Ma, Yangyang Sun, Youdan Feng, Tianyi Zhang, Yanli Lei,Yufang He, Zhongyu Cai,Yuanzhi Cheng, Guanglei Zhang*, “A General Feature Engineering Method Based on Latent Representation Learning for Radiomics: Application in NSCLC Subtype Classification”  IEEE Journal of Biomedical and Health Informatics, 2022, under review. (SCI, Q1, IF=5.772)
+
 Youdan Feng, Fan Song, Peng Zhang, Guangda Fan, Tianyi Zhang, Xiangyu Zhao, Chenbin Ma, Yangyang Sun, Xiao Song, Huangsheng Pu, Fei Liu, Guanglei Zhang*, “Prediction of EGFR mutation status in non-small cell lung cancer based on ensemble learning,” Frontiers in Pharmacology., 2022, in press. (SCI, Q1, IF=5.810)
 
 
