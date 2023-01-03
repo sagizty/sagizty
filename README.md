@@ -21,7 +21,7 @@ Peng Zhang, Chenbin Ma, Fan Song, Tianyi Zhang, Yangyang Sun, Youdan Feng, Yufan
 
 Peng Zhang, Chenbin Ma, Fan Song, Yangyang Sun, Youdan Feng, Yufang He, Tianyi Zhang, Guanglei Zhang, “D2AFNet: A Dual-Domain Attention-Guided Network for Accurate and Interpretable Atrial Fibrillation Detection,” Computers in Biology and Medicine., 2022, in press. (SCI, Q1, IF=4.589)
 
-Chenbin Ma, Peng Zhang, Fan Song, Yangyang Sun, Guangda Fan, Tianyi Zhang, Youdan Feng, Guanglei Zhang, “KD-Informer: cuff-less continuous blood pressure waveform estimation approach based on single photoplethysmography,” IEEE Journal of Biomedical and Health Informatics., 2022, in press. (SCI, Q1, IF=5.772)
+Chenbin Ma, Peng Zhang, Fan Song, Yangyang Sun, Guangda Fan, Tianyi Zhang, Youdan Feng, Guanglei Zhang, “KD-Informer: cuff-less continuous blood pressure waveform estimation approach based on single photoplethysmography,” IEEE Journal of Biomedical and Health Informatics., 2022, in press. (SCI, Q1, IF=7.03)
 
 Jinkai Li, Fan Song, Peng Zhang, Chenbin Ma, Tianyi Zhang, Yangyang Sun, Youdan Feng, Xiao Song, Shangqing Lyu, Guanglei Zhang, “A multi-classification model for non-small cell lung cancer subtypes based on independent subtask learning,” Medical Physics., 2022, in press. (SCI, Q1, IF=4.071)
 
