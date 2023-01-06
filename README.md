@@ -13,7 +13,7 @@
 
 Tianyi Zhang, Yunlu Feng, Yu Zhao, Guangda Fan, Aiming Yang, Shangqing Lyu, Peng Zhang, Fan Song, Chenbin Ma, Yangyang Sun, Youdan Feng, and Guanglei Zhang, “MSHT: Multi-stage hybrid transformer for the ROSE image analysis of pancreatic cancer,” IEEE Journal of Biomedical and Health Informatics., 2022, in-press. (SCI, Q1, IF=7.03)
 
-Tianyi Zhang, Youdan Feng, Yu Zhao, Yunlu Feng, Yanli Lei, Nan Ying, Fan Song, Zhiling Yan, Yufang He, Aiming Yang, and Guanglei Zhang, “Pancreatic cancer ROSE image classification based on multiple instance learning with shuffle instances,” arXiv:2206.03080, 2022. IEEE Transactions on Medical Imaging., 2022, under review. (SCI, Q1, IF=10.048)
+Tianyi Zhang, Youdan Feng, Yu Zhao, Yanli Lei, Nan Ying, Fan Song, Yufang He, Zhiling Yan, Yunlu Feng, Aiming Yang, and Guanglei Zhang, “Pancreatic cancer ROSE image classification based on multiple instance learning with shuffle instances,” arXiv:2206.03080, 2022. 
 
 Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Yunlu Feng, Yu Zhao, Guanglei Zhang, “CellMix: A general instance relationship based method for data augmentation towards pathology image analysis,” ...
 
