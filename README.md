@@ -2,7 +2,10 @@
 
 - 📫 email me at: zhangtianyi@buaa.edu.cn
 
-- 🔭 I’m currently working on Computational Pathology
+- 🔭 I’m currently working on Computational Pathology, with:
+- (1) Zhanglab at Beijing Advanced Innovation Center for Biomedical Engineering, School of Biological Science and Medical Engineering,
+Beihang University, China
+- (2) CVPD group at A*Star BII, Singapore
 
 - 🌱 To view videos I made about my research and the courses I tought: https://space.bilibili.com/64952151?spm_id_from=333.1007.0.0
 
