@@ -22,7 +22,7 @@ Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Yunlu Feng, Yu Zhao,
 
 Peng Zhang, Chenbin Ma, Fan Song, Tianyi Zhang, Yangyang Sun, Youdan Feng, Yufang He, Fei Liu, Daifa Wang, Guanglei Zhang, “D2-RecST: Dual-domain Joint Reconstruction Strategy for Fluorescence Molecular Tomography Based on Image Domain and Perception Domain,” Computer Methods and Programs in Biomedicine., 2022, in press. (SCI, Q1, IF=5.428)
 
-Peng Zhang, Chenbin Ma, Fan Song, Yangyang Sun, Youdan Feng, Yufang He, Tianyi Zhang, Guanglei Zhang, “D2AFNet: A Dual-Domain Attention-Guided Network for Accurate and Interpretable Atrial Fibrillation Detection,” Computers in Biology and Medicine., 2022, in press. (SCI, Q1, IF=4.589)
+Peng Zhang, Chenbin Ma, Fan Song, Yangyang Sun, Youdan Feng, Yufang He, Tianyi Zhang, Guanglei Zhang, “D2AFNet: A Dual-Domain Attention-Guided Network for Accurate and Interpretable Atrial Fibrillation Detection,” Biomedical Signal Processing and Control., Volume 82, April 2023, 104615.
 
 Chenbin Ma, Peng Zhang, Fan Song, Yangyang Sun, Guangda Fan, Tianyi Zhang, Youdan Feng, Guanglei Zhang, “KD-Informer: cuff-less continuous blood pressure waveform estimation approach based on single photoplethysmography,” IEEE Journal of Biomedical and Health Informatics., 2022, in press. (SCI, Q1, IF=7.03)
 
