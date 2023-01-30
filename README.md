@@ -7,7 +7,7 @@
 Beihang University, China
 - (2) CVPD group at A*Star BII, Singapore
 
-- 🌱 To view videos I made about my research and the courses I tought: https://space.bilibili.com/64952151?spm_id_from=333.1007.0.0
+- 🌱 To view videos I made about my research and the courses: https://space.bilibili.com/64952151?spm_id_from=333.1007.0.0
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagizty&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,7 +18,7 @@ Tianyi Zhang, Yunlu Feng, Yu Zhao, Guangda Fan, Aiming Yang, Shangqing Lyu, Peng
 
 Tianyi Zhang, Youdan Feng, Yu Zhao, Yanli Lei, Nan Ying, Fan Song, Yufang He, Zhiling Yan, Yunlu Feng, Aiming Yang, and Guanglei Zhang, “Pancreatic cancer ROSE image classification based on multiple instance learning with shuffle instances,” arXiv:2206.03080, 2022. 
 
-Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Yunlu Feng, Yu Zhao, Guanglei Zhang, “CellMix: A general instance relationship based method for data augmentation towards pathology image analysis,” ...
+Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Yunlu Feng, Yu Zhao, Guanglei Zhang, “CellMix: A general instance relationship based method for data augmentation towards pathology image analysis,” arXiv:2301.11513, 2022. 
 
 Peng Zhang, Chenbin Ma, Fan Song, Tianyi Zhang, Yangyang Sun, Youdan Feng, Yufang He, Fei Liu, Daifa Wang, Guanglei Zhang, “D2-RecST: Dual-domain Joint Reconstruction Strategy for Fluorescence Molecular Tomography Based on Image Domain and Perception Domain,” Computer Methods and Programs in Biomedicine., 2022, in press. (SCI, Q1, IF=5.428)
 
