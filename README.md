@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Computational Pathology, with:
 - CVPD group at A*Star BII, Singapore
-- and also part-time with Zhanglab at Beijing Advanced Innovation Center for Biomedical Engineering, School of Biological Science and Medical Engineering,
+- and also part-time with Beijing Advanced Innovation Center for Biomedical Engineering, School of Biological Science and Medical Engineering,
 Beihang University, China
 
 - 🌱 To view videos I made about my research and the courses: https://space.bilibili.com/64952151?spm_id_from=333.1007.0.0
