@@ -17,7 +17,7 @@ JBHI reviewer
 
 # Published Works (2022):
 
-Tianyi Zhang, Yunlu Feng, Yu Zhao, Guangda Fan, Aiming Yang, Shangqing Lyu, Peng Zhang, Fan Song, Chenbin Ma, Yangyang Sun, Youdan Feng, and Guanglei Zhang, “MSHT: Multi-stage hybrid transformer for the ROSE image analysis of pancreatic cancer,” IEEE Journal of Biomedical and Health Informatics., 2022, in-press. (SCI, Q1, IF=7.03)
+Tianyi Zhang, Yunlu Feng, Yu Zhao, Guangda Fan, Aiming Yang, Shangqing Lyu, Peng Zhang, Fan Song, Chenbin Ma, Yangyang Sun, Youdan Feng, and Guanglei Zhang, “MSHT: Multi-stage hybrid transformer for the ROSE image analysis of pancreatic cancer,” IEEE Journal of Biomedical and Health Informatics., 2023, 27(4), pp.1946 - 1957. (SCI, Q1, IF=7.03)
 
 Tianyi Zhang, Youdan Feng, Yu Zhao, Yanli Lei, Nan Ying, Fan Song, Yufang He, Zhiling Yan, Yunlu Feng, Aiming Yang, and Guanglei Zhang, “Pancreatic cancer ROSE image classification based on multiple instance learning with shuffle instances,” arXiv:2206.03080, 2022. 
 
@@ -27,7 +27,7 @@ Peng Zhang, Chenbin Ma, Fan Song, Tianyi Zhang, Yangyang Sun, Youdan Feng, Yufan
 
 Peng Zhang, Chenbin Ma, Fan Song, Yangyang Sun, Youdan Feng, Yufang He, Tianyi Zhang, Guanglei Zhang, “D2AFNet: A Dual-Domain Attention-Guided Network for Accurate and Interpretable Atrial Fibrillation Detection,” Biomedical Signal Processing and Control., Volume 82, April 2023, 104615.
 
-Chenbin Ma, Peng Zhang, Fan Song, Yangyang Sun, Guangda Fan, Tianyi Zhang, Youdan Feng, Guanglei Zhang, “KD-Informer: cuff-less continuous blood pressure waveform estimation approach based on single photoplethysmography,” IEEE Journal of Biomedical and Health Informatics., 2022, in press. (SCI, Q1, IF=7.03)
+Chenbin Ma, Peng Zhang, Fan Song, Yangyang Sun, Guangda Fan, Tianyi Zhang, Youdan Feng, Guanglei Zhang, “KD-Informer: cuff-less continuous blood pressure waveform estimation approach based on single photoplethysmography,” IEEE Journal of Biomedical and Health Informatics., 2023, 27(5), pp.2219 - 2230. (SCI, Q1, IF=7.03)
 
 Jinkai Li, Fan Song, Peng Zhang, Chenbin Ma, Tianyi Zhang, Yangyang Sun, Youdan Feng, Xiao Song, Shangqing Lyu, Guanglei Zhang, “A multi-classification model for non-small cell lung cancer subtypes based on independent subtask learning,” Medical Physics., 2022, in press. (SCI, Q1, IF=4.071)
 
