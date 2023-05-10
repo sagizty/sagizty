@@ -3,7 +3,7 @@
 - 📫 email me at: zhangtianyi@buaa.edu.cn
 
 - 🔭 I’m currently working on Computational Pathology, with:
-- CVPD group at A*Star BII, Singapore
+- CVPD group at A*STAR BII, Singapore
 - and also part-time with Beijing Advanced Innovation Center for Biomedical Engineering, School of Biological Science and Medical Engineering,
 Beihang University, China
 
