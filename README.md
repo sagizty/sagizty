@@ -40,17 +40,13 @@ Youdan Feng, Fan Song, Peng Zhang, Guangda Fan, Tianyi Zhang, Xiangyu Zhao, Chen
 
 # Recent works (2023)
 
-PuzzleTuning (journal on-going) Tianyi Zhang*, Chunhui Li*, et al.
+PuzzleTuning (on-going) Tianyi Zhang*, Chunhui Li*, et al.
 
-MTL-DP (journal on-going) Tianyi Zhang*, Malay Singh*, et al.
+MTL-DP (on-going) Tianyi Zhang*, Malay Singh, Shangqing Lyu, Hwee Kuan Lee, et al.
 
-MIL-SI  (journal on-going) Youdan Feng*, Tianyi Zhang*, Zheyu Liu*, et al.
+MIL-SI  (on-going) Youdan Feng*, Tianyi Zhang*, Zheyu Liu*, et al.
 
-Nan Ying*, Yanli Lei*, Tianyi Zhang*, Shangqing Lyu, Chunhui Li, Sicheng Chen, and Guanglei Zhang, “CPIA Dataset: A Comprehensive Pathological Image Analysis Dataset for Self-supervised Learning Pre-training”,  2023. (submitted)
-
-Nan Ying*, Yanli Lei*, Tianyi Zhang*, Shangqing Lyu, Chunhui Li, Sicheng Chen, Zheyu Liu, and Guanglei Zhang, “CPIA Dataset: A Comprehensive Pathological Image Analysis Dataset for Self-supervised Learning Pre-training”,  2023. (journal on-going)
-
-Zhiling Yan*, Tianyi Zhang*, Sicheng Chen, Chunhui Li, Nan Ying, Yanli Lei, Lichao Sun, and Guanglei Zhang, “Shuffle-based Feedback Learning for Semantic Segmentation of Pathology Images” , 2023. (submitted)
+Nan Ying*, Yanli Lei*, Tianyi Zhang*, Shangqing Lyu, Chunhui Li, Sicheng Chen, Zheyu Liu, and Guanglei Zhang, “CPIA Dataset: A Comprehensive Pathological Image Analysis Dataset for Self-supervised Learning Pre-training”,  2023. (on-going)
 
 <!--
 **sagizty/sagizty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
