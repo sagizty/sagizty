@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 email me at: zhangtianyi@buaa.edu.cn
+- 📫 email me at: zhang_tianyi@bii.a-star.edu.sg or zhangtianyi@buaa.edu.cn
 
 - 🔭 I’m currently working on Computational Pathology, with:
 - CVPD group at A*STAR BII, Singapore
