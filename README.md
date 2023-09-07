@@ -37,6 +37,7 @@ Fan Song, Jiaxin Tian, Peng Zhang, Chenbin Ma, Yangyang Sun, Youdan Feng, Tianyi
 
 Youdan Feng, Fan Song, Peng Zhang, Guangda Fan, Tianyi Zhang, Xiangyu Zhao, Chenbin Ma, Yangyang Sun, Xiao Song, Huangsheng Pu, Fei Liu, Guanglei Zhang, “Prediction of EGFR mutation status in non-small cell lung cancer based on ensemble learning,” Frontiers in Pharmacology, 2022, 13, p.897597.. (SCI, Q1, IF=5.810)
 
+Yufang He, Fan Song, Wangjiang Wu, Suqing Tian, Tianyi Zhang, Shuming Zhang, Peng Zhang, Chenbin Ma, Youdan Feng, Ruijie Yang, Guanglei Zhang, “MultiTrans: Multi-scale feature fusion Transformer with transfer learning strategy for multiple organs segmentation of head and neck CT images” Medicine in Novel Technology and Devices., 2023, in-press.
 
 # Recent works (2023)
 
