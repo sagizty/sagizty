@@ -19,9 +19,9 @@ JBHI reviewer
 
 Tianyi Zhang, Yunlu Feng, Yu Zhao, Guangda Fan, Aiming Yang, Shangqing Lyu, Peng Zhang, Fan Song, Chenbin Ma, Yangyang Sun, Youdan Feng, and Guanglei Zhang, “MSHT: Multi-stage hybrid transformer for the ROSE image analysis of pancreatic cancer,” IEEE Journal of Biomedical and Health Informatics., 2023, 27(4), pp.1946 - 1957. (SCI, Q1, IF=7.03)
 
-Tianyi Zhang, Youdan Feng, Yu Zhao, Yanli Lei, Nan Ying, Fan Song, Yufang He, Zhiling Yan, Yunlu Feng, Aiming Yang, and Guanglei Zhang, “Pancreatic cancer ROSE image classification based on multiple instance learning with shuffle instances,” arXiv:2206.03080, 2022. 
+Tianyi Zhang, Youdan Feng, Yu Zhao, Yanli Lei, Nan Ying, Fan Song, Yufang He, Zhiling Yan, Yunlu Feng, Aiming Yang, and Guanglei Zhang, “Pancreatic cancer ROSE image classification based on multiple instance learning with shuffle instances,” arXiv:2206.03080, 2022.  (under-review)
 
-Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Shangqing Lyu, Yunlu Feng, Yu Zhao, Guanglei Zhang, “CellMix: A general instance relationship based method for data augmentation towards pathology image analysis,” arXiv:2301.11513, 2023. 
+Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Shangqing Lyu, Yunlu Feng, Yu Zhao, Guanglei Zhang, “CellMix: A general instance relationship based method for data augmentation towards pathology image analysis,” arXiv:2301.11513, 2023.  (under-review)
 
 Peng Zhang, Chenbin Ma, Fan Song, Tianyi Zhang, Yangyang Sun, Youdan Feng, Yufang He, Fei Liu, Daifa Wang, Guanglei Zhang, “D2-RecST: Dual-domain Joint Reconstruction Strategy for Fluorescence Molecular Tomography Based on Image Domain and Perception Domain,” Computer Methods and Programs in Biomedicine., 229 (2023): 107293. (SCI, Q1, IF=5.428)
 
