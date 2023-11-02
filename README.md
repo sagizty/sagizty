@@ -23,6 +23,8 @@ Tianyi Zhang, Youdan Feng, Yu Zhao, Yanli Lei, Nan Ying, Fan Song, Yufang He, Zh
 
 Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Shangqing Lyu, Yunlu Feng, Yu Zhao, Guanglei Zhang, “CellMix: A general instance relationship based method for data augmentation towards pathology image analysis,” arXiv:2301.11513, 2023.  (under-review)
 
+Nan Ying*, Yanli Lei*, Tianyi Zhang*, Shangqing Lyu, Chunhui Li, Sicheng Chen, Zheyu Liu, and Guanglei Zhang, “CPIA Dataset: A Comprehensive Pathological Image Analysis Dataset for Self-supervised Learning Pre-training”,  arxiv 2310.17902 (under-review)
+
 Peng Zhang, Chenbin Ma, Fan Song, Tianyi Zhang, Yangyang Sun, Youdan Feng, Yufang He, Fei Liu, Daifa Wang, Guanglei Zhang, “D2-RecST: Dual-domain Joint Reconstruction Strategy for Fluorescence Molecular Tomography Based on Image Domain and Perception Domain,” Computer Methods and Programs in Biomedicine., 229 (2023): 107293. (SCI, Q1, IF=5.428)
 
 Peng Zhang, Chenbin Ma, Fan Song, Yangyang Sun, Youdan Feng, Yufang He, Tianyi Zhang, Guanglei Zhang, “D2AFNet: A Dual-Domain Attention-Guided Network for Accurate and Interpretable Atrial Fibrillation Detection,” Biomedical Signal Processing and Control., Volume 82, April 2023, 104615.
@@ -41,13 +43,13 @@ Yufang He, Fan Song, Wangjiang Wu, Suqing Tian, Tianyi Zhang, Shuming Zhang, Pen
 
 # Recent works (2023)
 
-PuzzleTuning (on-going) Tianyi Zhang, Chunhui Li, et al.
+PuzzleTuning (on-going) Tianyi Zhang, Shangqing Lyu, et al.
 
 MTL-DP (on-going) Tianyi Zhang, Malay Singh, Shangqing Lyu, Hwee Kuan Lee, et al.
 
 MIL-SI  (on-going) Zheyu Liu*, Tianyi Zhang*, Youdan Feng*, et al.
 
-Nan Ying*, Yanli Lei*, Tianyi Zhang*, Shangqing Lyu, Chunhui Li, Sicheng Chen, Zheyu Liu, and Guanglei Zhang, “CPIA Dataset: A Comprehensive Pathological Image Analysis Dataset for Self-supervised Learning Pre-training”,  2023. (under-review)
+
 
 <!--
 **sagizty/sagizty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
