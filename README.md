@@ -41,13 +41,17 @@ Youdan Feng, Fan Song, Peng Zhang, Guangda Fan, Tianyi Zhang, Xiangyu Zhao, Chen
 
 Yufang He, Fan Song, Wangjiang Wu, Suqing Tian, Tianyi Zhang, Shuming Zhang, Peng Zhang, Chenbin Ma, Youdan Feng, Ruijie Yang, Guanglei Zhang, “MultiTrans: Multi-scale feature fusion Transformer with transfer learning strategy for multiple organs segmentation of head and neck CT images” Medicine in Novel Technology and Devices., 2023, in-press.
 
+Yufang He, Zeyu Liu, Mingxin Qi, Shengwei Ding, Peng Zhang, Fan Song, Chenbin Ma, Huijie Wu, Ruxin Cai, Youdan Feng, Haonan Zhang, Tianyi Zhang, Guanglei Zhang, “PST-Diff: Achieving High-consistency Stain Transfer by Diffusion Models with Pathological and Structural Constraints,” IEEE Transactions on Medical Imaging, 2022, (under-review).
+
 # Recent works (2023)
 
-PuzzleTuning (on-going) Tianyi Zhang, Shangqing Lyu, et al.
+Tianyi Zhang, Shangqin Lyu, Yanli Lei, Sichen Chen, Nan Ying,  Yufang He, Yu Zhao, Yunlu Feng, Guanglei Zhang, “PuzzleTuning: explicit bridge pathological and natural image with puzzles”
 
-MTL-DP (on-going) Tianyi Zhang, Malay Singh, Shangqing Lyu, Hwee Kuan Lee, et al.
+MTL-DP (on-going) Tianyi Zhang, Shangqing Lyu, Malay Singh, Hwee Kuan Lee, et al.
 
-MIL-SI  (on-going) Zheyu Liu*, Tianyi Zhang*, Youdan Feng*, et al.
+TaskHint (on-going) Shangqing Lyu*, Tianyi Zhang*, Malay Singh, Hwee Kuan Lee, et al.
+
+SPLM  (on-going) Zheyu Liu*, Tianyi Zhang*, Youdan Feng*, et al.
 
 
 
