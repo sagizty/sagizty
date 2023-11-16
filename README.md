@@ -23,6 +23,8 @@ Tianyi Zhang, Youdan Feng, Yu Zhao, Yanli Lei, Nan Ying, Fan Song, Yufang He, Zh
 
 Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Shangqing Lyu, Yunlu Feng, Yu Zhao, Guanglei Zhang, “CellMix: A general instance relationship based method for data augmentation towards pathology image analysis,” arXiv:2301.11513, 2023.  (under-review)
 
+Tianyi Zhang, Shangqing Lyu, Yanli Lei, Sicheng Chen, Nan Ying,  Yufang He, Yu Zhao, Yunlu Feng, Guanglei Zhang, “PuzzleTuning: explicit bridge pathological and natural image with puzzles” arXiv: 2311.06712, 2023. (under-review)
+
 Nan Ying*, Yanli Lei*, Tianyi Zhang*, Shangqing Lyu, Chunhui Li, Sicheng Chen, Zheyu Liu, and Guanglei Zhang, “CPIA Dataset: A Comprehensive Pathological Image Analysis Dataset for Self-supervised Learning Pre-training”,  arxiv 2310.17902 (under-review)
 
 Peng Zhang, Chenbin Ma, Fan Song, Tianyi Zhang, Yangyang Sun, Youdan Feng, Yufang He, Fei Liu, Daifa Wang, Guanglei Zhang, “D2-RecST: Dual-domain Joint Reconstruction Strategy for Fluorescence Molecular Tomography Based on Image Domain and Perception Domain,” Computer Methods and Programs in Biomedicine., 229 (2023): 107293. (SCI, Q1, IF=5.428)
@@ -44,8 +46,6 @@ Yufang He, Fan Song, Wangjiang Wu, Suqing Tian, Tianyi Zhang, Shuming Zhang, Pen
 Yufang He, Zeyu Liu, Mingxin Qi, Shengwei Ding, Peng Zhang, Fan Song, Chenbin Ma, Huijie Wu, Ruxin Cai, Youdan Feng, Haonan Zhang, Tianyi Zhang, Guanglei Zhang, “PST-Diff: Achieving High-consistency Stain Transfer by Diffusion Models with Pathological and Structural Constraints,” IEEE Transactions on Medical Imaging, 2022, (under-review).
 
 # Recent works (2023)
-
-Tianyi Zhang, Shangqin Lyu, Yanli Lei, Sichen Chen, Nan Ying,  Yufang He, Yu Zhao, Yunlu Feng, Guanglei Zhang, “PuzzleTuning: explicit bridge pathological and natural image with puzzles”
 
 MTL-DP (on-going) Tianyi Zhang, Shangqing Lyu, Malay Singh, Hwee Kuan Lee, et al.
 
