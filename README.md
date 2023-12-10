@@ -17,9 +17,9 @@ JBHI reviewer
 
 # Published Works:
 
-Tianyi Zhang, Yunlu Feng, Yu Zhao, Guangda Fan, Aiming Yang, Shangqing Lyu, Peng Zhang, Fan Song, Chenbin Ma, Yangyang Sun, Youdan Feng, and Guanglei Zhang, “MSHT: Multi-stage hybrid transformer for the ROSE image analysis of pancreatic cancer,” IEEE Journal of Biomedical and Health Informatics., 2023, 27(4), pp.1946 - 1957. (SCI, Q1, IF=7.03)
+Tianyi Zhang, Yunlu Feng, Yu Zhao, Guangda Fan, Aiming Yang, Shangqing Lyu, Peng Zhang, Fan Song, Chenbin Ma, Yangyang Sun, Youdan Feng, and Guanglei Zhang, “MSHT: Multi-stage hybrid transformer for the ROSE image analysis of pancreatic cancer,” IEEE Journal of Biomedical and Health Informatics, 2023, 27(4), pp.1946 - 1957. (SCI, Q1, IF=7.1) https://ieeexplore.ieee.org/abstract/document/10006398
 
-Tianyi Zhang, Youdan Feng, Yu Zhao, Yunlu Feng, Yanli Lei, Nan Ying, Fan Song, Zhiling Yan, Yufang He, Aiming Yang, and Guanglei Zhang, “Shuffle Instances-based Vision Transformer for Pancreatic Cancer ROSE Image Classification” Computer Methods and Programs in Biomedicine, in-press, 2023 (SCI, Q1, IF=6.1)
+Tianyi Zhang, Youdan Feng, Yu Zhao, Yunlu Feng, Yanli Lei, Nan Ying, Fan Song, Zhiling Yan, Yufang He, Aiming Yang, and Guanglei Zhang, “Shuffle Instances-based Vision Transformer for Pancreatic Cancer ROSE Image Classification” Computer Methods and Programs in Biomedicine, 244, p. 107969. (SCI, Q1, IF=6.1) https://authors.elsevier.com/c/1iDRxcV4LHEkF
 
 Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Shangqing Lyu, Yunlu Feng, Yu Zhao, Guanglei Zhang, “CellMix: A general instance relationship based method for data augmentation towards pathology image analysis,” arXiv:2301.11513, 2023.  (under-review)
 
