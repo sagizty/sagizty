@@ -6,13 +6,10 @@
 - CVPD group at A*STAR BII, Singapore
 - and also part-time with Beijing Advanced Innovation Center for Biomedical Engineering, School of Biological Science and Medical Engineering,
 Beihang University, China
-
+- 😄 Reviewer duties: IEEE JBHI
 - 🌱 To view videos I made about my research and the courses: https://space.bilibili.com/64952151?spm_id_from=333.1007.0.0
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagizty&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-Duties:
-JBHI reviewer
 
 
 # Published Works:
@@ -37,9 +34,9 @@ Jinkai Li, Fan Song, Peng Zhang, Chenbin Ma, Tianyi Zhang, Yangyang Sun, Youdan 
 
 Fan Song, Lan Song, Tongtong Xing, Youdan Feng, Xiao Song, Peng Zhang, Tianyi Zhang, Zhenchen Zhu, Wei Song, Guanglei Zhang, “A multi-classification model for predicting the invasiveness of lung adenocarcinoma presenting as pure ground-glass nodules,” Frontiers in Oncology, 2022, 12, p.800811. (SCI, Q2, IF=6.244)
 
-Fan Song, Jiaxin Tian, Peng Zhang, Chenbin Ma, Yangyang Sun, Youdan Feng, Tianyi Zhang, Yanli Lei,Yufang He, Zhongyu Cai,Yuanzhi Cheng, Guanglei Zhang, “A Novel Feature Engineering Method Based on Latent Representation Learning for Radiomics: Application in NSCLC Subtype Classification”  IEEE Journal of Biomedical and Health Informatics., 2023, in-press. (SCI, Q1, IF=5.772)
+Fan Song, Jiaxin Tian, Peng Zhang, Chenbin Ma, Yangyang Sun, Youdan Feng, Tianyi Zhang, Yanli Lei, Yufang He, Zhongyu Cai, Yuanzhi Cheng, Guanglei Zhang, “A Novel Feature Engineering Method Based on Latent Representation Learning for Radiomics: Application in NSCLC Subtype Classification”  IEEE Journal of Biomedical and Health Informatics., 2023, in-press. (SCI, Q1, IF=5.772)
 
-Youdan Feng, Fan Song, Peng Zhang, Guangda Fan, Tianyi Zhang, Xiangyu Zhao, Chenbin Ma, Yangyang Sun, Xiao Song, Huangsheng Pu, Fei Liu, Guanglei Zhang, “Prediction of EGFR mutation status in non-small cell lung cancer based on ensemble learning,” Frontiers in Pharmacology, 2022, 13, p.897597.. (SCI, Q1, IF=5.810)
+Youdan Feng, Fan Song, Peng Zhang, Guangda Fan, Tianyi Zhang, Xiangyu Zhao, Chenbin Ma, Yangyang Sun, Xiao Song, Huangsheng Pu, Fei Liu, Guanglei Zhang, “Prediction of EGFR mutation status in non-small cell lung cancer based on ensemble learning,” Frontiers in Pharmacology, 2022, 13, p.897597. (SCI, Q1, IF=5.810)
 
 Yufang He, Fan Song, Wangjiang Wu, Suqing Tian, Tianyi Zhang, Shuming Zhang, Peng Zhang, Chenbin Ma, Youdan Feng, Ruijie Yang, Guanglei Zhang, “MultiTrans: Multi-scale feature fusion Transformer with transfer learning strategy for multiple organs segmentation of head and neck CT images” Medicine in Novel Technology and Devices., 2023, in-press.
 
