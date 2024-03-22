@@ -28,17 +28,17 @@ Nan Ying*, Yanli Lei*, Tianyi Zhang*, Shangqing Lyu, Chunhui Li, Sicheng Chen, Z
 
 Zeyu Liu*, Tianyi Zhang*, Yufang He, Yunlu Feng, Yu Zhao, and Guanglei Zhang, “Generating Progressive Images from Pathological Transitions via Diffusion Model” arXiv: 2311.12316, 2023. (under-review)
 
-Peng Zhang, Chenbin Ma, Fan Song, Tianyi Zhang, Yangyang Sun, Youdan Feng, Yufang He, Fei Liu, Daifa Wang, Guanglei Zhang, “D2-RecST: Dual-domain Joint Reconstruction Strategy for Fluorescence Molecular Tomography Based on Image Domain and Perception Domain,” Computer Methods and Programs in Biomedicine., 229 (2023): 107293. (SCI, Q1, IF=5.428)
+Peng Zhang, Chenbin Ma, Fan Song, Tianyi Zhang, Yangyang Sun, Youdan Feng, Yufang He, Fei Liu, Daifa Wang, Guanglei Zhang, “D2-RecST: Dual-domain Joint Reconstruction Strategy for Fluorescence Molecular Tomography Based on Image Domain and Perception Domain,” Computer Methods and Programs in Biomedicine., 229 (2023): 107293. (SCI, Q1, IF=6.1)
 
 Peng Zhang, Chenbin Ma, Fan Song, Yangyang Sun, Youdan Feng, Yufang He, Tianyi Zhang, Guanglei Zhang, “D2AFNet: A Dual-Domain Attention-Guided Network for Accurate and Interpretable Atrial Fibrillation Detection,” Biomedical Signal Processing and Control., Volume 82, April 2023, 104615.
 
-Chenbin Ma, Peng Zhang, Fan Song, Yangyang Sun, Guangda Fan, Tianyi Zhang, Youdan Feng, Guanglei Zhang, “KD-Informer: cuff-less continuous blood pressure waveform estimation approach based on single photoplethysmography,” IEEE Journal of Biomedical and Health Informatics., 2023, 27(5), pp.2219 - 2230. (SCI, Q1, IF=7.03)
+Chenbin Ma, Peng Zhang, Fan Song, Yangyang Sun, Guangda Fan, Tianyi Zhang, Youdan Feng, Guanglei Zhang, “KD-Informer: cuff-less continuous blood pressure waveform estimation approach based on single photoplethysmography,” IEEE Journal of Biomedical and Health Informatics., 2023, 27(5), pp.2219 - 2230. (SCI, Q1, IF=7.1)
 
 Jinkai Li, Fan Song, Peng Zhang, Chenbin Ma, Tianyi Zhang, Yangyang Sun, Youdan Feng, Xiao Song, Shangqing Lyu, Guanglei Zhang, “A multi-classification model for non-small cell lung cancer subtypes based on independent subtask learning,” Medical Physics, 49(11), pp.6960-6974. (SCI, Q1, IF=4.071)
 
 Fan Song, Lan Song, Tongtong Xing, Youdan Feng, Xiao Song, Peng Zhang, Tianyi Zhang, Zhenchen Zhu, Wei Song, Guanglei Zhang, “A multi-classification model for predicting the invasiveness of lung adenocarcinoma presenting as pure ground-glass nodules,” Frontiers in Oncology, 2022, 12, p.800811. (SCI, Q2, IF=6.244)
 
-Fan Song, Jiaxin Tian, Peng Zhang, Chenbin Ma, Yangyang Sun, Youdan Feng, Tianyi Zhang, Yanli Lei, Yufang He, Zhongyu Cai, Yuanzhi Cheng, Guanglei Zhang, “A Novel Feature Engineering Method Based on Latent Representation Learning for Radiomics: Application in NSCLC Subtype Classification”  IEEE Journal of Biomedical and Health Informatics, 2024, 28(1), pp.31 - 41. (SCI, Q1, IF=7.03)
+Fan Song, Jiaxin Tian, Peng Zhang, Chenbin Ma, Yangyang Sun, Youdan Feng, Tianyi Zhang, Yanli Lei, Yufang He, Zhongyu Cai, Yuanzhi Cheng, Guanglei Zhang, “A Novel Feature Engineering Method Based on Latent Representation Learning for Radiomics: Application in NSCLC Subtype Classification”  IEEE Journal of Biomedical and Health Informatics, 2024, 28(1), pp.31 - 41. (SCI, Q1, IF=7.1)
 
 Youdan Feng, Fan Song, Peng Zhang, Guangda Fan, Tianyi Zhang, Xiangyu Zhao, Chenbin Ma, Yangyang Sun, Xiao Song, Huangsheng Pu, Fei Liu, Guanglei Zhang, “Prediction of EGFR mutation status in non-small cell lung cancer based on ensemble learning,” Frontiers in Pharmacology, 2022, 13, p.897597. (SCI, Q1, IF=5.810)
 
@@ -46,13 +46,7 @@ Yufang He, Fan Song, Wangjiang Wu, Suqing Tian, Tianyi Zhang, Shuming Zhang, Pen
 
 Yufang He, Zeyu Liu, Mingxin Qi, Shengwei Ding, Peng Zhang, Fan Song, Chenbin Ma, Huijie Wu, Ruxin Cai, Youdan Feng, Haonan Zhang, Tianyi Zhang, Guanglei Zhang, “PST-Diff: Achieving High-consistency Stain Transfer by Diffusion Models with Pathological and Structural Constraints,” IEEE Transactions on Medical Imaging, 2024, (under-review).
 
-# Recent works (2023)
 
-MTL-DP (on-going) Tianyi Zhang, Shangqing Lyu, Malay Singh, Hwee Kuan Lee, et al.
-
-TaskHint (on-going) Shangqing Lyu*, Tianyi Zhang*, Malay Singh, Hwee Kuan Lee, et al.
-
-SPLM  (on-going) Zheyu Liu*, Tianyi Zhang*, Youdan Feng*, et al.
 
 
 
