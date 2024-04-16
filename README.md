@@ -13,7 +13,6 @@ Beijing Advanced Innovation Center for Biomedical Engineering, School of Biologi
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagizty&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=voM43TbUYbisAp4Yc2_bQW53OGQpkzLD3CWhUKrAvG8"></script>
 
 # Published Works:
 
