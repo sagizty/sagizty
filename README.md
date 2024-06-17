@@ -16,9 +16,9 @@ Beijing Advanced Innovation Center for Biomedical Engineering, School of Biologi
 
 # Published Works:
 
-Tianyi Zhang, Yunlu Feng, Yu Zhao, Guangda Fan, Aiming Yang, Shangqing Lyu, Peng Zhang, Fan Song, Chenbin Ma, Yangyang Sun, Youdan Feng, and Guanglei Zhang, “MSHT: Multi-stage hybrid transformer for the ROSE image analysis of pancreatic cancer,” IEEE Journal of Biomedical and Health Informatics, 2023, 27(4), pp.1946 - 1957. (SCI, Q1, IF=7.1) https://ieeexplore.ieee.org/abstract/document/10006398
+Tianyi Zhang, Yunlu Feng, Yu Zhao, Guangda Fan, Aiming Yang, Shangqing Lyu, Peng Zhang, Fan Song, Chenbin Ma, Yangyang Sun, Youdan Feng, and Guanglei Zhang, “MSHT: Multi-stage hybrid transformer for the ROSE image analysis of pancreatic cancer,” IEEE Journal of Biomedical and Health Informatics, 2023, 27(4), pp.1946 - 1957. (SCI, Q1, IF=7.1)
 
-Tianyi Zhang, Youdan Feng, Yu Zhao, Yunlu Feng, Yanli Lei, Nan Ying, Fan Song, Zhiling Yan, Yufang He, Aiming Yang, and Guanglei Zhang, “Shuffle Instances-based Vision Transformer for Pancreatic Cancer ROSE Image Classification” Computer Methods and Programs in Biomedicine, 244, p. 107969. (SCI, Q1, IF=6.1) https://www.sciencedirect.com/science/article/abs/pii/S0169260723006351
+Tianyi Zhang, Youdan Feng, Yu Zhao, Yunlu Feng, Yanli Lei, Nan Ying, Fan Song, Zhiling Yan, Yufang He, Aiming Yang, and Guanglei Zhang, “Shuffle Instances-based Vision Transformer for Pancreatic Cancer ROSE Image Classification” Computer Methods and Programs in Biomedicine, 244, p. 107969. (SCI, Q1, IF=6.1)
 
 Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Shangqing Lyu, Yunlu Feng, Yu Zhao, Guanglei Zhang, “CellMix: A general instance relationship based method for data augmentation towards pathology image analysis,” arXiv:2301.11513, 2023.  (under-review)
 
@@ -44,7 +44,7 @@ Youdan Feng, Fan Song, Peng Zhang, Guangda Fan, Tianyi Zhang, Xiangyu Zhao, Chen
 
 Yufang He, Fan Song, Wangjiang Wu, Suqing Tian, Tianyi Zhang, Shuming Zhang, Peng Zhang, Chenbin Ma, Youdan Feng, Ruijie Yang, Guanglei Zhang, “MultiTrans: Multi-scale feature fusion Transformer with transfer learning strategy for multiple organs segmentation of head and neck CT images” Medicine in Novel Technology and Devices, 2023, 18, p.100235.
 
-Yufang He, Zeyu Liu, Mingxin Qi, Shengwei Ding, Peng Zhang, Fan Song, Chenbin Ma, Huijie Wu, Ruxin Cai, Youdan Feng, Haonan Zhang, Tianyi Zhang, Guanglei Zhang, “PST-Diff: Achieving High-consistency Stain Transfer by Diffusion Models with Pathological and Structural Constraints,” IEEE Transactions on Medical Imaging, 2024, (under-review).
+Yufang He, Zeyu Liu, Mingxin Qi, Shengwei Ding, Peng Zhang, Fan Song, Chenbin Ma, Huijie Wu, Ruxin Cai, Youdan Feng, Haonan Zhang, Tianyi Zhang, Guanglei Zhang, “PST-Diff: Achieving High-consistency Stain Transfer by Diffusion Models with Pathological and Structural Constraints,” IEEE Transactions on Medical Imaging, 2024, (in-press).
 
 
 
