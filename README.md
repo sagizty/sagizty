@@ -24,9 +24,9 @@ Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Shangqing Lyu, Yunlu
 
 Tianyi Zhang, Shangqing Lyu, Yanli Lei, Sicheng Chen, Nan Ying,  Yufang He, Yu Zhao, Yunlu Feng, Guanglei Zhang, “PuzzleTuning: explicit bridge pathological and natural image with puzzles” arXiv: 2311.06712, 2023. (under-review)
 
-Nan Ying*, Yanli Lei*, Tianyi Zhang*, Shangqing Lyu, Chunhui Li, Sicheng Chen, Zheyu Liu, and Guanglei Zhang, “CPIA Dataset: A Comprehensive Pathological Image Analysis Dataset for Self-supervised Learning Pre-training”,  arxiv 2310.17902 (under-review)
+Zeyu Liu*, Tianyi Zhang*, Yufang He, Yunlu Feng, Yu Zhao, and Guanglei Zhang, “Generating Progressive Images from Pathological Transitions via Diffusion Model” arXiv: 2311.12316 (MICCAI2024 accepted)
 
-Zeyu Liu*, Tianyi Zhang*, Yufang He, Yunlu Feng, Yu Zhao, and Guanglei Zhang, “Generating Progressive Images from Pathological Transitions via Diffusion Model” arXiv: 2311.12316, 2023. (under-review)
+Nan Ying*, Yanli Lei*, Tianyi Zhang*, Shangqing Lyu, Chunhui Li, Sicheng Chen, Zheyu Liu, and Guanglei Zhang, “CPIA Dataset: A Comprehensive Pathological Image Analysis Dataset for Self-supervised Learning Pre-training”,  arxiv 2310.17902 (under-review)
 
 Peng Zhang, Chenbin Ma, Fan Song, Tianyi Zhang, Yangyang Sun, Youdan Feng, Yufang He, Fei Liu, Daifa Wang, Guanglei Zhang, “D2-RecST: Dual-domain Joint Reconstruction Strategy for Fluorescence Molecular Tomography Based on Image Domain and Perception Domain,” Computer Methods and Programs in Biomedicine., 229 (2023): 107293. (SCI, Q1, IF=6.1)
 
