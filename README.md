@@ -8,7 +8,7 @@ iMVR group at Electrical and Computer Engineering (ECE), National University of 
 
 CVPD group at Bioinformatics Institute (BII), Agency for Science, Technology and Research (A*STAR), Singapore
 
-Beijing Advanced Innovation Center for Biomedical Engineering, School of Biological Science and Medical Engineering, Beihang University, China
+School of Biological Science and Medical Engineering, Beihang University, China
 
 
 - 😄 Reviewer duties: IEEE JBHI
