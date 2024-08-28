@@ -3,7 +3,7 @@
 - 📫 email me at: zhang_tianyi@bii.a-star.edu.sg or zhangtianyi@buaa.edu.cn
 
 - 🔭 I’m currently working on Computational Pathology, with:
-- 
+
 iMVR group at Electrical and Computer Engineering (ECE), National University of Singapore (NUS), Singapore
 
 CVPD group at Bioinformatics Institute (BII), Agency for Science, Technology and Research (A*STAR), Singapore
