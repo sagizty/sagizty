@@ -11,7 +11,6 @@ CVPD group at Bioinformatics Institute (BII), Agency for Science, Technology and
 School of Biological Science and Medical Engineering, Beihang University, China
 
 
-- 😄 Reviewer duties: IEEE JBHI
 - 🌱 To view videos I made about my research and the courses: https://space.bilibili.com/64952151?spm_id_from=333.1007.0.0
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagizty&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
