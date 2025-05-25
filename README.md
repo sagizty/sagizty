@@ -26,7 +26,7 @@ Yufang He, Zeyu Liu, Mingxin Qi, Shengwei Ding, Peng Zhang, Fan Song, Chenbin Ma
 
 Tianyi Zhang, Shangqing Lyu, Yanli Lei, Sicheng Chen, Nan Ying,  Yufang He, Yu Zhao, Yunlu Feng, Guanglei Zhang, “PuzzleTuning: explicit bridge pathological and natural image with puzzles,” arXiv: 2311.06712, 2023. (under-review)
 
-Nan Ying*, Yanli Lei*, Tianyi Zhang*, Shangqing Lyu, Chunhui Li, Sicheng Chen, Zheyu Liu, and Guanglei Zhang, “CPIA Dataset: A Comprehensive Pathological Image Analysis Dataset for Self-supervised Learning Pre-training”,  arxiv 2310.17902 (under-review)
+Nan Ying*, Yanli Lei*, Tianyi Zhang*, Shangqing Lyu, Chunhui Li, Sicheng Chen, Zheyu Liu, and Guanglei Zhang, “CPIA Dataset: A Comprehensive Pathological Image Analysis Dataset for Self-supervised Learning Pre-training”, Biomedical Signal Processing and Control, 2025. (in-press, arxiv 2310.17902)
 
 Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Shangqing Lyu, Yunlu Feng, Yu Zhao, Guanglei Zhang, “CellMix: A general instance relationship based method for data augmentation towards pathology image analysis,” IEEE Transactions on Neural Networks and Learning Systems, (in-print) arXiv:2301.11513, 2023.  
 
