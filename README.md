@@ -2,16 +2,13 @@
 
 - 📫 email me at: zhang_tianyi@bii.a-star.edu.sg or zhangtianyi@buaa.edu.cn
 
-- 🔭 I’m currently working on Computational Pathology, with:
-
-iMVR group at Electrical and Computer Engineering (ECE), National University of Singapore (NUS), Singapore
+- 🔭 I’m currently working on Computational Pathology, colleborating with:
 
 CVPD group at Bioinformatics Institute (BII), Agency for Science, Technology and Research (A*STAR), Singapore
 
-School of Biological Science and Medical Engineering, Beihang University, China
+PuzzleLogic Pte, Ltd., & National University of Singapore (NUS), Singapore
 
-
-- 🌱 To view videos I made about my research and the courses: https://space.bilibili.com/64952151?spm_id_from=333.1007.0.0
+- 🌱 To view videos I made about my research and interests : https://space.bilibili.com/64952151?spm_id_from=333.1007.0.0
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagizty&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
