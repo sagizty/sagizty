@@ -2,11 +2,11 @@
 
 - 📫 email me at: zhang_tianyi@bii.a-star.edu.sg or zhangtianyi@buaa.edu.cn
 
-- 🔭 I’m currently working on Computational Pathology, colleborating with:
+- 🔭 I’m currently working on Computational Pathology, at/with:
 
 CVPD group at Bioinformatics Institute (BII), Agency for Science, Technology and Research (A*STAR), Singapore
 
-PuzzleLogic Pte, Ltd., & National University of Singapore (NUS), Singapore
+PuzzleLogic & IMVR at National University of Singapore (NUS), Singapore
 
 - 🌱 To view videos I made about my research and interests : https://space.bilibili.com/64952151?spm_id_from=333.1007.0.0
 
