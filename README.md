@@ -25,7 +25,7 @@ Tianyi Zhang, Shangqing Lyu, Yanli Lei, Sicheng Chen, Nan Ying,  Yufang He, Yu Z
 
 Nan Ying*, Yanli Lei*, Tianyi Zhang*, Shangqing Lyu, Chunhui Li, Sicheng Chen, Zheyu Liu, and Guanglei Zhang, “CPIA Dataset: A Comprehensive Pathological Image Analysis Dataset for Self-supervised Learning Pre-training”, Biomedical Signal Processing and Control, 2025. (in-press, arxiv 2310.17902)
 
-Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Shangqing Lyu, Yunlu Feng, Yu Zhao, Guanglei Zhang, “CellMix: A general instance relationship based method for data augmentation towards pathology image analysis,” IEEE Transactions on Neural Networks and Learning Systems, (in-print) arXiv:2301.11513, 2023.  
+Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Shangqing Lyu, Yunlu Feng, Yu Zhao, Guanglei Zhang, “CellMix: A general instance relationship based method for data augmentation towards pathology image analysis,” IEEE Transactions on Neural Networks and Learning Systems, 2025, 36(9), pp.16020 - 16034. 
 
 Tianyi Zhang, Youdan Feng, Yu Zhao, Yunlu Feng, Yanli Lei, Nan Ying, Fan Song, Zhiling Yan, Yufang He, Aiming Yang, and Guanglei Zhang, “SI-ViT: Shuffle instance-based Vision Transformer for pancreatic cancer ROSE image classification,” Computer Methods and Programs in Biomedicine, 244, p. 107969. 2024
 
