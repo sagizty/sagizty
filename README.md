@@ -12,6 +12,7 @@ PuzzleLogic & IMVR at National University of Singapore (NUS), Singapore
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagizty&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+Reviewer: IEEE T-PAMI, IEEE TNNLS, IEEE JBHI, IEEE TBME, CMPB, CVPR, AAAI, MICCAI
 
 # Recent Works:
 
