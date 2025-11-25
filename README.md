@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 email me at: zhang_tianyi@bii.a-star.edu.sg or zhangtianyi@buaa.edu.cn
+- 📫 email me at: zhangtianyi@u.nus.edu
 
 - 🔭 I’m currently working on Computational Pathology, at/with:
 
