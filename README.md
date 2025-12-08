@@ -18,6 +18,8 @@ Reviewer: IEEE T-PAMI, IEEE TNNLS, IEEE JBHI, IEEE TBME, CMPB, CVPR, AAAI, MICCA
 
 Sicheng Chen, Tianyi Zhang, Dankai Liao, Dandan Li, Low Chang Han, Yanqin Jiang, Yueming Jin, Shangqing Lyu, "PathRWKV: Enabling Whole Slide Prediction with Recurrent-Transformer" arXiv: 2503.03199, 2025.
 
+Zeyu Liu, Yufang He, Tianyi Zhang, Chenbin Ma, Fan Song, Huijie Wu, Ruxin Cai, Haoran Guo, Haonan Zhang, Bo Wen, Peng Zhang, Dachun Zhao and Guanglei Zhang, "StainExpert: A Unified Multi-Expert Diffusion Framework for Multi-Target Pathological Stain Translation", IEEE Transactions on Medical Imaging, accepted
+
 Zeyu Liu*, Tianyi Zhang*, Yufang He, Yunlu Feng, Yu Zhao, and Guanglei Zhang, “Generating Progressive Images from Pathological Transitions via Diffusion Model,” In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), pp. 308-318, 2024.
 
 Yufang He, Zeyu Liu, Mingxin Qi, Shengwei Ding, Peng Zhang, Fan Song, Chenbin Ma, Huijie Wu, Ruxin Cai, Youdan Feng, Haonan Zhang, Tianyi Zhang, Guanglei Zhang, “PST-Diff: Achieving High-consistency Stain Transfer by Diffusion Models with Pathological and Structural Constraints,” IEEE Transactions on Medical Imaging, 2024, 43(10), pp.3634-3647.
