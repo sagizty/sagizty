@@ -14,7 +14,7 @@ PuzzleLogic & IMVR at National University of Singapore (NUS), Singapore
 
 Reviewer: IEEE T-PAMI, IEEE TNNLS, IEEE JBHI, IEEE TBME, CMPB, CVPR, AAAI, MICCAI
 
-# Recent Works:
+### Recent Works:
 
 Tianyi Zhang*, Sicheng Chen*, Dankai Liao, Dandan Li, Low Chang Han, Yanqin Jiang, Yueming Jin, Shangqing Lyu, "PathRWKV: Enabling Whole Slide Prediction with Recurrent-Transformer" IEEE Transactions on Medical Imaging, accepted, 2026.
 
@@ -28,28 +28,16 @@ Enhui Chai, Sicheng Chen, Tianyi Zhang, Xingyu Li and Tianxiang Cui, "SSMamba: A
 
 Zeyu Liu, Yufang He, Tianyi Zhang, Chenbin Ma, Fan Song, Huijie Wu, Ruxin Cai, Haoran Guo, Haonan Zhang, Bo Wen, Peng Zhang, Dachun Zhao and Guanglei Zhang, "StainExpert: A Unified Multi-Expert Diffusion Framework for Multi-Target Pathological Stain Translation", IEEE Transactions on Medical Imaging, accepted, 2026.
 
+### Highlighted Previous Works:
+
+Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Shangqing Lyu, Yunlu Feng, Yu Zhao, Guanglei Zhang, “CellMix: A general instance relationship based method for data augmentation towards pathology image analysis,” IEEE Transactions on Neural Networks and Learning Systems, 2025, 36(9), pp.16020 - 16034.
+
 Zeyu Liu*, Tianyi Zhang*, Yufang He, Yunlu Feng, Yu Zhao, and Guanglei Zhang, “Generating Progressive Images from Pathological Transitions via Diffusion Model,” In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), pp. 308-318, 2024.
 
 Yufang He, Zeyu Liu, Mingxin Qi, Shengwei Ding, Peng Zhang, Fan Song, Chenbin Ma, Huijie Wu, Ruxin Cai, Youdan Feng, Haonan Zhang, Tianyi Zhang, Guanglei Zhang, “PST-Diff: Achieving High-consistency Stain Transfer by Diffusion Models with Pathological and Structural Constraints,” IEEE Transactions on Medical Imaging, 2024, 43(10), pp.3634-3647.
 
 Tianyi Zhang, Shangqing Lyu, Yanli Lei, Sicheng Chen, Nan Ying,  Yufang He, Yu Zhao, Yunlu Feng, Guanglei Zhang, “PuzzleTuning: explicit bridge pathological and natural image with puzzles,” arXiv: 2311.06712, 2023.
 
-Tianyi Zhang, Zhiling Yan, Chunhui li, Nan Ying, Yanli Lei, Shangqing Lyu, Yunlu Feng, Yu Zhao, Guanglei Zhang, “CellMix: A general instance relationship based method for data augmentation towards pathology image analysis,” IEEE Transactions on Neural Networks and Learning Systems, 2025, 36(9), pp.16020 - 16034.
+Tianyi Zhang, Youdan Feng, Yu Zhao, Yunlu Feng, Yanli Lei, Nan Ying, Fan Song, Zhiling Yan, Yufang He, Aiming Yang, and Guanglei Zhang, “SI-ViT: Shuffle instance-based Vision Transformer for pancreatic cancer ROSE image classification” Computer Methods and Programs in Biomedicine, 244, p. 107969.
 
 Tianyi Zhang, Yunlu Feng, Yu Zhao, Guangda Fan, Aiming Yang, Shangqing Lyu, Peng Zhang, Fan Song, Chenbin Ma, Yangyang Sun, Youdan Feng, and Guanglei Zhang, “MSHT: Multi-stage hybrid transformer for the ROSE image analysis of pancreatic cancer,” IEEE Journal of Biomedical and Health Informatics, 2023, 27(4), pp.1946 - 1957.
-
-
-<!--
-**sagizty/sagizty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
