@@ -8,11 +8,9 @@ CVPD group at Bioinformatics Institute (BII), Agency for Science, Technology and
 
 PuzzleLogic & IMVR at National University of Singapore (NUS), Singapore
 
-- 🌱 To view videos I made about my research and interests : https://space.bilibili.com/64952151?spm_id_from=333.1007.0.0
+- 🌱 To view videos on my research and interests : https://space.bilibili.com/64952151?spm_id_from=333.1007.0.0
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagizty&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Reviewer: IEEE T-PAMI, IEEE TNNLS, IEEE JBHI, IEEE TBME, CMPB, CVPR, AAAI, MICCAI
 
 ### Recent Works:
 
