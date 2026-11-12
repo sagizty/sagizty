@@ -8,7 +8,7 @@ CVPD group at Bioinformatics Institute (BII), Agency for Science, Technology and
 
 PuzzleLogic & IMVR at National University of Singapore (NUS), Singapore
 
-- 🌱 To view videos on my research and interests : https://space.bilibili.com/64952151?spm_id_from=333.1007.0.0
+- 🌱 To view videos on my research and interests: https://space.bilibili.com/64952151?spm_id_from=333.1007.0.0
 - 🎓 Google Scholar: https://scholar.google.com/citations?hl=en&user=HQIAwJUAAAAJ
 
 
